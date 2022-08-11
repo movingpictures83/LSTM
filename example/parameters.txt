@@ -1,0 +1,6 @@
+csvfile	input.csv
+trainpct	0.67
+slidingwindow	10
+features	4
+inputsize	10
+epochs	5

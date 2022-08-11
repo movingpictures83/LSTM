@@ -1,0 +1,2 @@
+Prefix plugins/LSTM/example
+Plugin LSTM inputfile parameters.txt outputfile output
